@@ -15,18 +15,21 @@ The volumes have been divided into several batches, corresponding to either a ce
 |Batch        |Pages        |Status       |
 | ----------- | ----------- | ----------- |
 | Vol1 - 14th century | 13/13| Gold |
-| Vol1 - 15th century | 8/52 | In progress |
+| Vol1 - 15th century | 52/52 | Gold |
 | Vol1 - 16th century | 0/95 | To do |
 | Vol1 - 17th century | 21/109 | In progress |
 | Vol1 - 1700/1750 | 0/131 | To do |
 | Vol1 - 1751/1800 | 21/103 | In progress |
 | Vol2 - 1801-1825 | 10/149 | In progress |
 | Vol2 - 1826-1850 | 0/129 | To do |
-| Vol2 - 1851-1875 | 10/110 | In progress |
+| Vol2 - 1851-1875 | 10/99 | In progress |
 | Vol2 - 1876-1900 | 0/31 | To do |
 | Vol3 - Appendix A | 10/106 | In progress |
 | Vol3 - Appendix B | 10/107 | In progress |
 | Vol3 - Appendix C | 0/26 | To do |
+| Vol3 - Index | 8/25 | In progress |
+| Supplement - 1868-1884 | 0/99 | To do |
+| Supplement - 1885-1900 | 0/72 | To do |
 
 ## Technical aspects
 The transcriptions are produced with [FoNDUE](https://www.unige.ch/lettres/humanites-numeriques/recherche/projets/projets-de-la-chaire/fondue), the Geneva instance of [eScriptorium](https://gitlab.com/scripta/escriptorium). We use the HTR model [catmus-print-fondue-large](https://zenodo.org/records/10592716). HTR results are exported in TXT files.
