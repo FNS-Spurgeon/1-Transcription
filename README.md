@@ -25,9 +25,9 @@ The volumes have been divided into several batches, corresponding to either a ce
 | Vol2 - 1851-1875 | 10/99 | In progress |
 | Vol2 - 1876-1900 | 0/31 | To do |
 | Vol3 - Appendix A | 10/106 | In progress |
-| Vol3 - Appendix B | 10/107 | In progress |
+| Vol3 - Appendix B | 110/110 | Gold |
 | Vol3 - Appendix C | 0/26 | To do |
-| Vol3 - Index | 8/25 | In progress |
+| Vol3 - Index | 25/25 | Gold |
 | Supplement - 1868-1884 | 0/99 | To do |
 | Supplement - 1885-1900 | 0/72 | To do |
 
